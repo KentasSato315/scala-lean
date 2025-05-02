@@ -1,4 +1,4 @@
-import scala.collection.immutable
+package cupBook
 
 object step3_7 {
   def main(args: Array[String]): Unit = {

@@ -1,3 +1,5 @@
+package cupBook
+
 class CheacksumAccumulator {
   private var sum = 0
   def add(b: Byte) = sum += b

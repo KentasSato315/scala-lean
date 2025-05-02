@@ -1,3 +1,5 @@
+package cupBook
+
 class Rational(n: Int, d: Int) {
   require(d != 0)
   // 「d が 0 じゃないこと」を条件としてチェックして、違反してたら例外を投げる
