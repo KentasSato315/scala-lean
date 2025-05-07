@@ -1,5 +1,6 @@
 package cupBook
 
+import scala.collection.mutable.Map
 object step3_7 {
   def main(args: Array[String]): Unit = {
     val treasureMap = Map[Int, String]()
